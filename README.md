@@ -3,7 +3,7 @@
 
 ## ATTENTION! dArkOS has replaced ArkOS. ArkOS will no longer be maintained effective immediately. The ArkOS repository will be maintained for historical purposes only. Thank you for your support!
 
-For Updated ArkOS Try ArkOS4Clone
+For Updated ArkOS Try [ArkOS4Clone](https://github.com/lcdyk0517/arkos4clone)
 
 For dArkOS made specifically for the R36S and its clones, go to https://github.com/southoz/dArkOSRE-R36
 
