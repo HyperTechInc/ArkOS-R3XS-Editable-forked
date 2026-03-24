@@ -1,19 +1,29 @@
 # [ArkOS - R3XS](https://aeolusux.github.io/ArkOS-R3XS/)
 ![](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS/main/logo.bmp)
 
+## ATTENTION! dArkOS has replaced ArkOS. ArkOS will no longer be maintained effective immediately. The ArkOS repository will be maintained for historical purposes only. Thank you for your support!
 
+For Updated ArkOS Try ArkOS4Clone
+
+For dArkOS made specifically for the R36S and its clones, go to https://github.com/southoz/dArkOSRE-R36
+
+For dArkOS for RK3562 devices, go to https://github.com/bmdhacks/dArkOS_rg52mini
+
+For more information on dArkOS, go to https://github.com/christianhaitian/dArkOS/wiki
+
+# For Archived Versions of ArkOS-R3XS
 ## R33S / R35S / R36S / R36H
 
-Download Multipanel Image | [Google Drive](https://drive.google.com/file/d/1NPGRSuIJG6FOnzHHHn89rRQIo34CFZw1/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/i672xysm7j62kde/ArkOS_R35S-R36S_v2.0_05312025_MultiPanel.img.xz/file) | [MEGA](https://mega.nz/file/BQRHiCZY#7OOGW9ND7ewYVBv7XuWkQz8SpUqqjSuJFIuWYgs_AmA) |  ArkOS 2.0 (11072025)
+Download Multipanel Image | [Google Drive](https://drive.google.com/file/d/17Ircf08_6CKq_kIcXZScWc9e5nbA8C6j/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/i672xysm7j62kde/ArkOS_R35S-R36S_v2.0_05312025_MultiPanel.img.xz/file) | [MEGA](https://mega.nz/file/BQRHiCZY#7OOGW9ND7ewYVBv7XuWkQz8SpUqqjSuJFIuWYgs_AmA) |  ArkOS 2.0 (11072025)
 
 
 ## R36 Plus
 
-Download for R36S Plus | [Google Drive](https://drive.google.com/file/d/1TMRB8uwkTfk1g6k7c7zpyuxtooJZfyGu/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/dnv82zdbd47jqls/ArkOS_R36SPLUS_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/QZZSTCZT#7ZtPb5QyhUKVN1fpbQd2d9Ma5ooGZL7pjkLzsSVIaIM) | ArkOS 2.0 (11072025)
+Download for R36S Plus | [Google Drive](https://drive.google.com/file/d/1sLmXsPPMQkaGcYAK0wIpBpPZvvh0kLBW/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/dnv82zdbd47jqls/ArkOS_R36SPLUS_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/QZZSTCZT#7ZtPb5QyhUKVN1fpbQd2d9Ma5ooGZL7pjkLzsSVIaIM) | ArkOS 2.0 (11072025)
 
 ## R46H / R45H / R42 PRO / R40XX / R40XX Pro Max
 
-Download for R46H, R45H, R42 Pro, Etc. | [Google Drive](https://drive.google.com/file/d/1-oNpnOuc1mil4T_IMs4ui8W2uQt6Xlc_/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/80x61kaxbttmtv7/ArkOS_R46H-R45H-R42Pro_v2.0_11072025.img.xz/file) | [MEGA](https://mega.nz/file/EMgVkJZS#TdjmU-9KcxrUbArQXUlksJCW_64hkPYG4r_4SOBciU8) | ArkOS 2.0 (11072025)
+Download for R46H, R45H, R42 Pro, Etc. | [Google Drive](https://drive.google.com/file/d/1WGb-UcChdMen0Sum9-BmmcBJbme5a_sh/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/80x61kaxbttmtv7/ArkOS_R46H-R45H-R42Pro_v2.0_11072025.img.xz/file) | [MEGA](https://mega.nz/file/EMgVkJZS#TdjmU-9KcxrUbArQXUlksJCW_64hkPYG4r_4SOBciU8) | ArkOS 2.0 (11072025)
 
 
 ### Community Maintained Image.
